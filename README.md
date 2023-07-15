@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tanabodee
 =================================================================================================================================
 
-W
+Junior Full Stack Developer.
 -
 
 ✨I am currently a fourth-year student majoring in Computer Engineering at Naraesuan University. 📌Junior Full Stack Developer.
