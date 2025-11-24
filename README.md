@@ -13,7 +13,7 @@
 
 Hi, I'm tanab0dee, a graduate of *NU* and currently a Back-End Developer *@Studiotwist*.
 
-They say the best time to plant a tree was ten years ago, and the second best is now. That moment has become the soil for *REFLUX* — my one-person software studio, where I now nurture dreams with code.
+They say the best time to plant a tree was ten years ago — and the second best time is now.
 
 ### Blogs & Articles
 
